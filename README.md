@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Nika</h1>
 <h3 align="left">A passionate frontend developer from Georgia</h3>
 
-<h3 align="left">Stats:</h3>
+<h3 align="left">Stats: </h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yopblip&show_icons=true&theme=ambient_gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yopblip&layout=donut&theme=ambient_gradient)
