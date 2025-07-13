@@ -39,12 +39,12 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,bootstrap,mysql,python,linux,ubuntu,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,bootstrap,mysql,python,vscode" />
 </p>
 
 **Frontend:** React, TypeScript, HTML5, CSS3, Bootstrap  
 **Backend:** Node.js, Express.js, MySQL  
-**Tools:** Git, VS Code, Figma  
+**Tools:** Git, VS Code
 **Learning:** Python
 
 ---
