@@ -75,7 +75,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yopblip&theme=redical&hide_border=true&bg_color=0d1117" width="100%"/>
 </p>
 
-![Snake animation](https://github.com/yopblip/yopblip/blob/output/github-contribution-grid-snake.svg)
 
 -----
 
