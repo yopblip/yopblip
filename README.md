@@ -5,10 +5,10 @@
 
 ### 🫠 Currently Learning
 
-```python
+python
 🌱 Python
 🚧 Deepening TypeScript, Node.js and mySQL skills
-```
+
 
 ---
 
