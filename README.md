@@ -10,7 +10,7 @@
 {
   "age": 20,
   "location": "Georgia 🇬🇪",
-  "os": "Ubuntu Linux",
+  "os": "Ubuntu",
   "passion": "full-stack developer",
   "hobbies": ["coding", "3d modeling", "anime"],
   "current_focus": "building amazing web experiences"
@@ -44,12 +44,12 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,bootstrap,mysql,python,linux,ubuntu,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,bootstrap,mysql,python,vscode" />
 </p>
 
 **Frontend:** React, TypeScript, HTML5, CSS3, Bootstrap  
 **Backend:** Node.js, Express.js, MySQL  
-**Tools:** Git, VS Code, Ubuntu Linux, Figma  
+**Tools:** Git, VS Code  
 **Learning:** Python
 
 -----
@@ -63,7 +63,7 @@
 
 ### 🚀 What I’m Working On
 
-- Building responsive web applications with React & TypeScript
+- Building responsive web applications with React, TypeScript and JavaScript 
 - Learning Python programming
 - Creating 3D art and digital models
 
