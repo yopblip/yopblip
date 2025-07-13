@@ -44,7 +44,7 @@
 
 **Frontend:** React, TypeScript, HTML5, CSS3, Bootstrap  
 **Backend:** Node.js, Express.js, MySQL  
-**Tools:** Git, VS Code
+**Tools:** Git, VS Code  
 **Learning:** Python
 
 ---
