@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi+%F0%9F%91%8B,+I%E2%80%99m+<tspan+fill%3D%22%23ff69b4%22>Nika</tspan>\&center=true\&size=25\&font=Fira+Code\&pause=1000\&color=ffffff)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Nika&font=Fira%20Code&size=35&duration=3000&pause=1000&color=FF69B4&center=false&vCenter=false&repeat=true)](https://git.io/typing-svg)
 
-<h3 align="left">🚀 A passionate Full-Stack Developer from Georgia 🇬🇪</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+A+passionate+Full-Stack+Developer+from+Georgia+🇬🇪&font=Fira%20Code&size=20&duration=4000&pause=1000&color=FFFFFF&center=false&vCenter=false&repeat=false)](https://git.io/typing-svg)
 
----
+-----
 
 ### 👨‍💻 About Me
 
@@ -10,21 +10,23 @@
 {
   "age": 20,
   "location": "Georgia 🇬🇪",
-  "os": "Ubuntu",
+  "os": "Ubuntu Linux",
   "passion": "full-stack developer",
   "hobbies": ["coding", "3d modeling", "anime"],
   "current_focus": "building amazing web experiences"
 }
 ```
 
----
+-----
 
 ### 🌱 Currently Learning
 
-* 🐍 Python
-* 🚧 Deepening TypeScript, Node.js and MySQL skills
+```python
+🐍 Python
+🚧 Deepening TypeScript, Node.js and MySQL skills
+```
 
----
+-----
 
 ### 📊 My GitHub Stats
 
@@ -37,7 +39,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yopblip&theme=radical&hide_border=true" width="60%"/>
 </p>
 
----
+-----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -45,27 +47,27 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,bootstrap,mysql,python,linux,ubuntu,vscode,figma" />
 </p>
 
-**Frontend:** React, TypeScript, HTML5, CSS3, Bootstrap
-**Backend:** Node.js, Express.js, MySQL
-**Tools:** Git, VS Code
+**Frontend:** React, TypeScript, HTML5, CSS3, Bootstrap  
+**Backend:** Node.js, Express.js, MySQL  
+**Tools:** Git, VS Code, Ubuntu Linux, Figma  
 **Learning:** Python
 
----
+-----
 
 ### 🎨 Creative Side
 
-* **3D Artist** - Creating digital art and 3D models → [DeviantArt Profile](https://deviantart.com/yopblip)
-* **Anime Enthusiast** - Love watching anime and Japanese animation
+- **3D Artist** - Creating digital art and 3D models → [DeviantArt Profile](https://deviantart.com/yopblip)
+- **Anime Enthusiast** - Love watching anime and Japanese animation
 
----
+-----
 
 ### 🚀 What I’m Working On
 
-* Building responsive web applications with React & TypeScript
-* Learning Python programming
-* Creating 3D art and digital models
+- Building responsive web applications with React & TypeScript
+- Learning Python programming
+- Creating 3D art and digital models
 
----
+-----
 
 ### 📈 GitHub Activity
 
@@ -75,7 +77,7 @@
 
 ![Snake animation](https://github.com/yopblip/yopblip/blob/output/github-contribution-grid-snake.svg)
 
----
+-----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yopblip&style=flat-square&color=ff3068" alt="Profile Views"/>
