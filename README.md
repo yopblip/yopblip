@@ -10,7 +10,7 @@
 {
   "age": 20,
   "location": "Georgia 🇬🇪",
-  "os": "Ubuntu",
+  "os": "Linux Mint",
   "passion": "full-stack developer",
   "hobbies": ["coding", "3d modeling", "anime"],
   "current_focus": "building amazing web experiences"
@@ -33,10 +33,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yopblip&show_icons=true&theme=radical&hide_border=true" width="47%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopblip&layout=compact&theme=radical&hide_border=true" width="47%"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yopblip&theme=radical&hide_border=true" width="60%"/>
 </p>
 
 -----
