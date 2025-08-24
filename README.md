@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Nika&font=Fira%20Code&size=30&duration=3000&pause=1000&color=FF69B4&center=false&vCenter=false&repeat=true&width=500&height=50)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+A+passionate+Full-Stack+Developer+from+Georgia+&font=Fira%20Code&size=18&duration=4000&pause=1000&color=FFFFFF&center=false&vCenter=false&repeat=false&width=600&height=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🚀+A+passionate+Full-Stack+Developer+from+Georgia+&font=Fira%20Code&size=18&duration=4000&pause=1000&color=FFFFFF&center=false&vCenter=false&repeat=false&width=600&height=40&theme=dark)](https://git.io/typing-svg)
 
 -----
 
