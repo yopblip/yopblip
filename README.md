@@ -28,15 +28,6 @@
 
 -----
 
-### 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yopblip&show_icons=true&theme=radical&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopblip&layout=compact&theme=radical&hide_border=true" width="47%"/>
-</p>
-
------
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
